@@ -1,0 +1,15 @@
+{
+  "name": "javascript-ast",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/ast.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/all.js"
+  },
+  "keywords": ["ast", "parser", "javascript"],
+  "author": "Ilya 'Bacher' Lebedev <bacherko@gmail.com>",
+  "license": "ISC"
+}
