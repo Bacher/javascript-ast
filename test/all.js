@@ -19,4 +19,4 @@ for (let code of listings) {
     }
 }
 
-console.log('OK');
+console.log('\nOK\nAll tests passed!');
